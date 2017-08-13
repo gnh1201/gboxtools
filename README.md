@@ -9,3 +9,6 @@ A simple PHP based File Encryption Management System
 ## Encryption
 - support file encryption with RSA and AES
 - Key creation and revokation, managementation.
+
+# Questions
+- Contact me: Go Namhyeon <gnh1201@gmail.com>
