@@ -1,5 +1,6 @@
 # gboxtools
-A simple PHP based File Encryption Management System - RSA/AES file encryption module for Gnuboard5
+A simple PHP based File Encryption Management System
+- RSA/AES file encryption module for Gnuboard5
 
 ## Components
 - gnuboard5 (based cms)
