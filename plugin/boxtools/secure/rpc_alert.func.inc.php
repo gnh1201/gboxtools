@@ -1,7 +1,7 @@
 <?php
 // rpc_alert.function.php
 
-// °æ°í Àç¼³Á¤
+// ë¹„ë™ê¸°ì‹ ì•Œë¦¼
 function rpc_alert($str = "", $link = "", $is_rpc = false, $is_pos = false) {
 	if($is_pos == true) {
 		$cnt = 1;
@@ -32,5 +32,4 @@ function rpc_alert($str = "", $link = "", $is_rpc = false, $is_pos = false) {
 		}
 	}
 }
-
 ?>
